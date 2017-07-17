@@ -1,0 +1,20 @@
+input[type="text"]
+{
+	width: 50%;
+}
+input[type="password"]
+{
+	width: 50%;
+}
+input[type="date"]
+{
+	width: 50%;
+}
+input[type="number"]
+{
+	width: 50%;
+}
+input[type="email"]
+{
+	width: 50%;
+}
